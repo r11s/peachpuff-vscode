@@ -1,0 +1,19 @@
+
+Vim License
+===========
+
+Vim is Charityware. You can use and copy it as much as you like, but you are
+encouraged to make a donation to help children in Uganda. See https://www.vim.org/iccf/ .
+
+Permission is hereby granted to use, copy, modify, and distribute this software
+for any purpose without fee, provided that this notice is retained, and that the
+above charity is mentioned in any distribution of a modified version.
+
+THIS SOFTWARE IS PROVIDED "AS IS" AND WITHOUT ANY WARRANTY, EXPRESS OR IMPLIED,
+INCLUDING, WITHOUT LIMITATION, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND
+FITNESS FOR A PARTICULAR PURPOSE. IN NO EVENT SHALL THE AUTHOR OR CONTRIBUTORS
+BE LIABLE FOR ANY DAMAGES ARISING OUT OF THE USE OF THIS SOFTWARE.
+
+Attribution for this theme:
+- Original Vim color scheme "peachpuff": © David Nečas (Yeti), distributed with Vim under the Vim License.
+- VS Code port: © yourname. Mappings and adjustments provided under the Vim License as above.

@@ -1,0 +1,43 @@
+{
+  "name": "peachpuff",
+  "displayName": "Peachpuff (Vim Port)",
+  "description": "Visueller Port des klassischen Vim-Farbschemas »Peachpuff« (David Nečas, Yeti) für VS Code.",
+  "version": "0.0.1",
+  "publisher": "Rainer Strauss",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Peachpuff (Vim Port)",
+        "uiTheme": "vs",
+        "path": "./themes/peachpuff-color-theme.json"
+      }
+    ]
+  },
+  "license": "Vim",
+  "author": "Original: David Nečas (Yeti); VS Code-Port: yourname",
+  "keywords": [
+    "theme",
+    "vim",
+    "peachpuff",
+    "light",
+    "colorscheme"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://example.com/your/repo.git"
+  },
+  "homepage": "https://example.com/your/repo",
+  "bugs": {
+    "url": "https://example.com/your/repo/issues"
+  },
+  "galleryBanner": {
+    "color": "#FFE0BF",
+    "theme": "light"
+  }
+}
