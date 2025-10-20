@@ -21,7 +21,7 @@
     "url": "https://github.com/r11s/peachpuff-vscode/issues"
   },
   "homepage": "https://github.com/r11s/peachpuff-vscode",
-  "license": "Vim",
+  "license": "MIT",
   "contributes": {
     "themes": [
       {
