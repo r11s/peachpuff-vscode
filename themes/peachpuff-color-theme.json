@@ -5,7 +5,6 @@
   "semanticHighlighting": true,
 
   "colors": {
-    // "editor.background": "#FFDAB9",             // Normal guibg=PeachPuff
     "editor.background": "#FFE0BF",             // Normal guibg=PeachPuff
     "editor.foreground": "#000000",             // Normal guifg=Black
     "editorCursor.foreground": "#000000",       // Cursor (vim macht invert; wir nehmen gut sichtbares Schwarz)
