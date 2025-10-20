@@ -1,6 +1,7 @@
-
 Vim License
 ===========
+
+Copyright 2025 Rainer r11s
 
 Vim is Charityware. You can use and copy it as much as you like, but you are
 encouraged to make a donation to help children in Uganda. See https://www.vim.org/iccf/ .
@@ -16,4 +17,5 @@ BE LIABLE FOR ANY DAMAGES ARISING OUT OF THE USE OF THIS SOFTWARE.
 
 Attribution for this theme:
 - Original Vim color scheme "peachpuff": © David Nečas (Yeti), distributed with Vim under the Vim License.
-- VS Code port: © yourname. Mappings and adjustments provided under the Vim License as above.
+- VS Code port: © Rainer r11s. Mappings and adjustments provided under the Vim License as above.
+
