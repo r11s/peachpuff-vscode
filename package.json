@@ -2,7 +2,7 @@
   "name": "peachpuff",
   "displayName": "Peachpuff (Vim Port)",
   "description": "Visueller Port des klassischen Vim-Farbschemas »Peachpuff« (David Nečas, Yeti) für VS Code.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "r11s",
   "engines": {
     "vscode": "^1.80.0"
