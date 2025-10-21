@@ -2,7 +2,7 @@
   "name": "peachpuff",
   "displayName": "Peachpuff (Vim Port)",
   "description": "A warm, nostalgic light theme for Visual Studio Code — ported from Vim’s Peachpuff, originally authored by David Nečas (Yeti).",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "publisher": "r11s",
   "engines": {
     "vscode": "^1.80.0"
