@@ -1,5 +1,4 @@
 # Node / build stuff
 node_modules/
 .vscode/
-*.vsix
 src
