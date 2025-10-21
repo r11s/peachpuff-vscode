@@ -2,6 +2,7 @@
 .vscode/
 .github/
 .gitignore
+src/
 node_modules/
 scripts/
 tests/
@@ -11,4 +12,5 @@ assets/*.psd
 # Git/Build-Artefakte
 .git/
 *.vsix
+
 

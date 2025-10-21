@@ -1,13 +1,15 @@
 {
   "name": "peachpuff",
   "displayName": "Peachpuff (Vim Port)",
-  "description": "A warm, nostalgic light theme for Visual Studio Code — faithfully ported from Vim’s original Peachpuff by Bram Moolenaar.",
-  "version": "1.0.3",
+  "description": "A warm, nostalgic light theme for Visual Studio Code — ported from Vim’s Peachpuff, originally authored by David Nečas (Yeti).",
+  "version": "1.0.4",
   "publisher": "r11s",
   "engines": {
     "vscode": "^1.80.0"
   },
-  "categories": ["Themes"],
+  "categories": [
+    "Themes"
+  ],
   "galleryBanner": {
     "color": "#FFE0BF",
     "theme": "light"
@@ -38,7 +40,8 @@
     "peachpuff",
     "light",
     "classic",
-    "bram-moolenaar",
+    "david-necas",
+    "yeti",
     "vscode-theme"
   ]
 }
