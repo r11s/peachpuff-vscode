@@ -2,7 +2,7 @@
   "name": "peachpuff",
   "displayName": "Peachpuff (Vim Port)",
   "description": "A warm, nostalgic light theme for VS Code and VSCodium — ported from Vim’s Peachpuff, originally authored by David Nečas (Yeti).",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "publisher": "r11s",
   "engines": {
     "vscode": "^1.80.0"
@@ -23,6 +23,7 @@
     "url": "https://github.com/r11s/peachpuff-vscode/issues"
   },
   "homepage": "https://github.com/r11s/peachpuff-vscode",
+  "qna": "https://github.com/r11s/peachpuff-vscode/issues",
   "license": "Vim License",
   "contributes": {
     "themes": [

@@ -146,6 +146,11 @@ The repository contains short sample files in `tests/` (about 40 lines each) so 
 
 ## 📝 Changes
 
+### 1.1.1
+
+* The Q&A link now points to the GitHub issues page instead of the Microsoft Marketplace.
+* README: wording for both VS Code and VSCodium, commented settings, an explanation of semantic highlighting, and the author’s full name.
+
 ### 1.1.0
 
 * Rebuilt from Vim 9.1’s `peachpuff.vim`: syntax colors now follow Vim’s highlight groups. Go matches gVim token by token.
@@ -166,7 +171,7 @@ The repository contains short sample files in `tests/` (about 40 lines each) so 
 Acknowledgement: **Bram Moolenaar** is the creator of Vim.
 
 
-Ported and adapted by **Rainer S. (r11s)**.
+Ported and adapted by **Rainer Strauss (r11s)**.
 
 
 👉 https://www.vim.org/iccf/
